@@ -24,5 +24,5 @@
 <a href="https://www.djangoproject.com/"><img   src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="60" height="70"/></a>
 </p>
 
-[![bestekaragoz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bestekaragoz&theme=radical)](https://github.com/bestekaragoz/github-readme-stats)
-![Bestekaragoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestekrgz&show_icons=true&theme=radical)
+[![bestekaragoz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bestekaragoz&theme=apprentice)](https://github.com/bestekaragoz/github-readme-stats)
+![Bestekaragoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestekrgz&show_icons=true&theme=apprentice)
