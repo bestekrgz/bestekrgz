@@ -5,7 +5,8 @@
 <a href="https://www.linkedin.com/in/bestekargoz"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height=35 alt="linkedin"></a>
 <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35"/>
 <a href="https://twitter.com/beste_karagoz"><img src="https://img.icons8.com/color/48/000000/twitter.png" height=35 alt="twitter"></a>
-<a href="https://www.instagram.com/bestekaragoz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height=35 alt="instagram"></a> 
+<a href="https://www.instagram.com/bestekaragoz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height=35 alt="instagram"></a>
+<a href="https://medium.com/@bestekaragoz"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" height=35 alt="medium"></a> 
 <a href="mailto:bestekaragz@gmail.com">  </a></p>
 
 ### Languages and Tools
